@@ -1,0 +1,5 @@
+{
+  "name": "MacroQuant Research Engine",
+  "description": "A high-performance research engine for global macro strategy and quantitative equity analysis, powered by Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
